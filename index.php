@@ -25,6 +25,22 @@
                     </div>
                 </div>
             </div>
+
+            <div class="row">
+                <div class="col-5">
+                    <div class="card">
+                    <iframe src="https://public.domo.com/cards/31O7r" width="100%" height="500" 
+                    marginheight="0" marginwidth="0" frameborder="0"></iframe>
+                    </div>
+                </div>
+                <div class="col-5">
+                    <div class="card">
+                    <iframe src="https://public.domo.com/cards/2kO6J" width="100%" height="500"
+                     marginheight="0" marginwidth="0" frameborder="0"></iframe>
+                    </div>
+                </div>
+            </div>
+           
         </div>
     </body>
 </html>
