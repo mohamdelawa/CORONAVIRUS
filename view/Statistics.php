@@ -1,10 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-<?php include('layout/head.php') ?>
+<?php include('../layout/head.php') ?>
 <body >
 <div class="container-fluid" style="padding:0px"  >
-    <img src='images/coronanav.png' width="100%" height="400px">
-    <?php include('layout/nav.php') ?>
+    <img src='../images/coronanav.png' width="100%" height="400px">
+    <?php include('../layout/nav.php') ?>
 
     <div class="row" style="width: 100%;margin-right: 20%;margin-left: 20%">
         <div class="col-8">

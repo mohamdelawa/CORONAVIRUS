@@ -1,9 +1,9 @@
 <?php
 class DBConnection {
-	private $servername = "sql200.epizy.com";
-	private $username = "epiz_28989405";
-	private $password = "K6PhRv24ykxB0a5";
-	private $dbname = "epiz_28989405_coronavirus";
+	private $servername = "localhost";
+	private $username = "root";
+	private $password = "";
+	private $dbname = "coronavirus";
 	private $connection;
 	static $db_connection = null;
 	private function __construct() {

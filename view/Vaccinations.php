@@ -1,10 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-<?php include('layout/head.php') ?>
+<?php include('../layout/head.php') ?>
 <body>
 <div class="container-fluid" style="padding:0px"  >
-    <img src='images/coronanav.png' width="100%" height="400px">
-    <?php include('layout/nav.php') ?>
+    <img src='../images/coronanav.png' width="100%" height="400px">
+    <?php include('../layout/nav.php') ?>
     <div class="row" style="margin-right: 10px;margin-left: 15px;" >
         <div class="row" >
             <div class="col-8">
@@ -21,7 +21,7 @@
                     Organization (WHO). These groups have also issued recommendations on preventing the spread
                     of the virus.</h5>
             </div>
-            <div class="col-4"><img class="img rounded"src="images/coronavirus_5.jpg" width="100%" height="250px"></div>
+            <div class="col-4"><img class="img rounded"src="../images/coronavirus_5.jpg" width="100%" height="250px"></div>
         </div>
         <br/>
 

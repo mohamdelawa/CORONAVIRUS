@@ -4,7 +4,7 @@ class Post{
     private $publisher;
     private $subject;
     private $date;
-
+    private $comments;
     public function set_id ($id) {
 		$this->id = $id;
 	}
@@ -32,6 +32,14 @@ class Post{
 
 	public function get_date () {
 		return $this->date;
+	}
+
+     public function set_comments ($comments) {
+		$this->comments = $comments;
+	}
+
+	public function get_comments () {
+		return $this->comments;
 	}
 
 

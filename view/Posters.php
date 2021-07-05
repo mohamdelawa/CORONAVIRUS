@@ -1,6 +1,6 @@
 <?php
 
-class Table {
+class Posters {
 	private $posts;
 
 	public function __construct ($posts) {
